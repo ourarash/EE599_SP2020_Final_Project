@@ -7,3 +7,9 @@ Instructor: [Arash Saifhashemi](https://www.linkedin.com/in/ourarash/)
 |Project Name| Teammates | Description |Video Link|Github Link|
 | --- | --- | --- | --- | --- |
 | Random Generator | [Arash Saifhashemi](https://www.linkedin.com/in/ourarash/) | [YouTube](https://www.youtube.com/channel/UCuRf9tqJaRgXLyl85Nf-Vtg) | Generates a random number | [Github](https://github.com/ourarash/nodejs_fullstack) |
+
+# Class group picture
+
+One of our Zoom session group pictures:
+
+<img alt="Backend" src="https://raw.githubusercontent.com/ourarash/EE599_SP2020_Final_Project/master/zoom.png" width="400">
