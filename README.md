@@ -2,6 +2,8 @@
 
 This page show cases the final projects for the EE599 Course (Computing and Software for Systems Engineers) at University of [Southern California](http://usc.edu/) in Spring of 2020.
 
+[Course syllabus](https://raw.githubusercontent.com/ourarash/EE599_SP2020_Final_Project/master/syllabus.pdf)
+
 Instructor: [Arash Saifhashemi](https://www.linkedin.com/in/ourarash/) 
 
 |Project Name| Teammates | Description |Video Link|Github Link|
