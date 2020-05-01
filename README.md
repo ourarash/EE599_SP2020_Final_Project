@@ -14,4 +14,6 @@ Instructor: [Arash Saifhashemi](https://www.linkedin.com/in/ourarash/)
 
 One of our Zoom session group pictures:
 
-<img alt="Backend" src="https://raw.githubusercontent.com/ourarash/EE599_SP2020_Final_Project/master/zoom.png" width="400">
+<!-- <img alt="Backend" src="https://raw.githubusercontent.com/ourarash/EE599_SP2020_Final_Project/master/zoom.png" width="400"> -->
+<img alt="Backend" src="https://raw.githubusercontent.com/ourarash/EE599_SP2020_Final_Project/master/lastClass1.png" width="400">
+<img alt="Backend" src="https://raw.githubusercontent.com/ourarash/EE599_SP2020_Final_Project/master/lastClass1.png" width="400">
