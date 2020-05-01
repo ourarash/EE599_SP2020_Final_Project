@@ -1,4 +1,4 @@
-# EE599_SP2020_Final_Project
+# EE599 SP2020 Final Project Showcase
 
 This page show cases the final projects for the EE599 Course (Computing and Software for Systems Engineers) at University of [Southern California](http://usc.edu/) in Spring of 2020.
 
@@ -12,8 +12,7 @@ Instructor: [Arash Saifhashemi](https://www.linkedin.com/in/ourarash/)
 
 # Class group picture
 
-One of our Zoom session group pictures:
+Screenshot image from our last online class:
 
-<!-- <img alt="Backend" src="https://raw.githubusercontent.com/ourarash/EE599_SP2020_Final_Project/master/zoom.png" width="400"> -->
 <img alt="Backend" src="https://raw.githubusercontent.com/ourarash/EE599_SP2020_Final_Project/master/lastClass1.png" width="400">
 <img alt="Backend" src="https://raw.githubusercontent.com/ourarash/EE599_SP2020_Final_Project/master/lastClass2.png" width="400">
