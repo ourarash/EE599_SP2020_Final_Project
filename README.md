@@ -12,7 +12,7 @@ This page show cases the final projects for the EE599 Course (Computing and Soft
 | News Web Application | [Jingchao Zhou](https://www.linkedin.com/in/jingchao-zhou-a0b09a198/) and [Yueyi Yang](https://www.linkedin.com/in/%E6%9C%88%E4%BB%AA-%E6%9D%A8-4b0302193/) | View, search and mark news | [YouTube](https://www.youtube.com/watch?v=oOPrbqfKE9Y&t=127s)|[Github](https://github.com/JingchaoZhou/Web-News-Project) |
 | New World | [Spencer McDonough](https://www.linkedin.com/in/spencer-mcdonough/) | multiplayer boardgame | [YouTube](https://youtu.be/OT_Ji8IMt7c)|[Github](https://github.com/smcd253/new-world) |
 | Soical Network App | [Jingbang Zhong](https://www.linkedin.com/in/jingbanz/) and [Yuheng Zhang](https://www.linkedin.com/in/yuheng-zhang-176b9a197) | Social Network App like Twitter  | [YouTube](https://youtu.be/xT4uTTYC0Bk)|[Github](https://github.com/Yuheng-Zhang/Social-Network-App) |
-| C++ Snake Game | [Charlie Andre](https://www.linkedin.com/in/charlie-andre-748b5197/) | Classic Snake Game | [YouTubeb](https://www.youtube.com/watch?v=q1sGrCArmp4) | [Github](https://github.com/candre97/Snake) | 
+| C++ Snake Game | [Charlie Andre](https://www.linkedin.com/in/charlie-andre-748b5197/) | Classic Snake Game | [YouTube](https://www.youtube.com/watch?v=q1sGrCArmp4) | [Github](https://github.com/candre97/Snake) | 
 
 # Class group picture
 
