@@ -10,6 +10,7 @@ This page show cases the final projects for the EE599 Course (Computing and Soft
 | Random Generator | [Arash Saifhashemi](https://www.linkedin.com/in/ourarash/) | Generates a random number | [YouTube](https://www.youtube.com/channel/UCuRf9tqJaRgXLyl85Nf-Vtg)|[Github](https://github.com/ourarash/nodejs_fullstack) |
 | Covid-19 Tracker_analysis | [Haoyu Guo](https://www.linkedin.com/in/haoyu-guo-9a4768179/) and [Tianyi Xu](https://www.linkedin.com/in/%E5%A4%A9%E7%BE%BF-%E5%BE%90-83a272194/) | Covid-19 tracker fullstack | [YouTube](https://www.youtube.com/watch?v=HiZ4z87VUSY&t=64s)|[Github](https://github.com/guohaoyu110/COVID-19_tracker_analysis) |
 | News Web Application | [Jingchao Zhou](https://www.linkedin.com/in/jingchao-zhou-a0b09a198/) and [Yueyi Yang](https://www.linkedin.com/in/%E6%9C%88%E4%BB%AA-%E6%9D%A8-4b0302193/) | View, search and mark news | [YouTube](https://www.youtube.com/watch?v=oOPrbqfKE9Y&t=127s)|[Github](https://github.com/JingchaoZhou/Web-News-Project) |
+| C++ Snake Game | [Charlie Andre](https://www.linkedin.com/in/charlie-andre-748b5197/) | Classic Snake Game | [YouTubeb](https://www.youtube.com/watch?v=q1sGrCArmp4) | [Github](https://github.com/candre97/Snake) | 
 
 # Class group picture
 
