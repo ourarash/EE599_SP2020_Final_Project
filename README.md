@@ -8,9 +8,6 @@ This page show cases the final projects for the EE599 Course (Computing and Soft
 |Project Name| Teammates | Description |Video Link|Github Link|
 | --- | --- | --- | --- | --- |
 | Random Generator | [Arash Saifhashemi](https://www.linkedin.com/in/ourarash/) | Generates a random number | [YouTube](https://www.youtube.com/channel/UCuRf9tqJaRgXLyl85Nf-Vtg)|[Github](https://github.com/ourarash/nodejs_fullstack) |
-<<<<<<< HEAD
-|100 Peaks of Taiwan|[Yen-Ting Lin](linkedin.com/in/yen-ting-lin-8b2571159)| Introduce Taiwanese mountain to who love climb mountain and want to konw more about Taiwan|[YouTube](https://www.youtube.com/watch?v=_F54roA_pxI&feature=youtu.be)|[Github](https://github.com/linyenting365/100PeaksOfTaiwan)|
-=======
 | Covid-19 Tracker_analysis | [Haoyu Guo](https://www.linkedin.com/in/haoyu-guo-9a4768179/) and [Tianyi Xu](https://www.linkedin.com/in/%E5%A4%A9%E7%BE%BF-%E5%BE%90-83a272194/) | Covid-19 tracker fullstack | [YouTube](https://www.youtube.com/watch?v=HiZ4z87VUSY&t=64s)|[Github](https://github.com/guohaoyu110/COVID-19_tracker_analysis) |
 | News Web Application | [Jingchao Zhou](https://www.linkedin.com/in/jingchao-zhou-a0b09a198/) and [Yueyi Yang](https://www.linkedin.com/in/%E6%9C%88%E4%BB%AA-%E6%9D%A8-4b0302193/) | View, search and mark news | [YouTube](https://www.youtube.com/watch?v=oOPrbqfKE9Y&t=127s)|[Github](https://github.com/JingchaoZhou/Web-News-Project) |
 | New World | [Spencer McDonough](https://www.linkedin.com/in/spencer-mcdonough/) | multiplayer boardgame | [YouTube](https://youtu.be/OT_Ji8IMt7c)|[Github](https://github.com/smcd253/new-world) |
@@ -20,7 +17,7 @@ This page show cases the final projects for the EE599 Course (Computing and Soft
 | Wumpus World Game | [Jingwei Xu](https://www.linkedin.com/in/jingwei-xu-b323a0142/) | Wumpus World Game and AI Solver | [DemoVideo](https://drive.google.com/file/d/16nJCve9l4DEpJHcx8u0dtHy43jjoZFYl/view?usp=sharing) | [Github](https://github.com/jingweixu3/wumpus_sv) | 
 | PDF Compactor | [Guiquan Sun](https://www.linkedin.com/in/guiquan-sun-441399181/) and [Linxin Mai](https://www.linkedin.com/in/linxin-mai/) | PDF Compactor | [Youtube](https://www.youtube.com/watch?v=6Zd7mUN6C9A&feature=youtu.be) | [Github](https://github.com/guiquansun/PDF-Compactor) |
 | Mock Stock Trading Simulator | [Samuel Bruner](https://www.linkedin.com/in/samuelbruner/) | Practice buying / selling stocks in a risk free environment with real-time market data | [YouTube](https://youtu.be/WHd30ijnD-U) | [Github](https://github.com/brunersj/EE599_Project) |
->>>>>>> ed5d7ee67918fa05d4e094e17894d736b9c51f5e
+|100 Peaks of Taiwan|[Yen-Ting Lin](linkedin.com/in/yen-ting-lin-8b2571159)| Introduce Taiwanese mountain to who love climb mountain and want to konw more about Taiwan|[YouTube](https://www.youtube.com/watch?v=_F54roA_pxI&feature=youtu.be)|[Github](https://github.com/linyenting365/100PeaksOfTaiwan)|
 
 # Class group picture
 
