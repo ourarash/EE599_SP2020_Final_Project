@@ -13,6 +13,7 @@ This page show cases the final projects for the EE599 Course (Computing and Soft
 | New World | [Spencer McDonough](https://www.linkedin.com/in/spencer-mcdonough/) | multiplayer boardgame | [YouTube](https://youtu.be/OT_Ji8IMt7c)|[Github](https://github.com/smcd253/new-world) |
 | Soical Network App | [Jingbang Zhong](https://www.linkedin.com/in/jingbanz/) and [Yuheng Zhang](https://www.linkedin.com/in/yuheng-zhang-176b9a197) | Social Network App like Twitter  | [YouTube](https://youtu.be/xT4uTTYC0Bk)|[Github](https://github.com/Yuheng-Zhang/Social-Network-App) |
 | C++ Snake Game | [Charlie Andre](https://www.linkedin.com/in/charlie-andre-748b5197/) | Classic Snake Game | [YouTube](https://www.youtube.com/watch?v=q1sGrCArmp4) | [Github](https://github.com/candre97/Snake) | 
+| News Browser | [Shi Lin Chen](https://www.linkedin.com/in/shi-lin-ben-chen-98669a16b/) | View, search and receive daily news | [YouTube](https://www.youtube.com/watch?v=bYj5a5SZ_Xs) | [Github](https://github.com/linchen1010/News-Browser) | 
 
 # Class group picture
 
