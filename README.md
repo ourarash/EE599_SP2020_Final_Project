@@ -16,6 +16,7 @@ This page show cases the final projects for the EE599 Course (Computing and Soft
 | Biography of Hero Agar | [Yingnan Wang](https://www.linkedin.com/in/yingnan-wang-649687148/) and [Jiawei Wu](https://www.linkedin.com/in/jiawei-wu-ba851514a/) | Simple game to defeat others | [YouTube](https://www.youtube.com/watch?v=DdsqrOJ5ep0&feature=youtu.be) | [Github](https://github.com/YingnanWang-Ray/EE599_Final_Project.git) |
 | Wumpus World Game | [Jingwei Xu](https://www.linkedin.com/in/jingwei-xu-b323a0142/) | Wumpus World Game and AI Solver | [DemoVideo](https://drive.google.com/file/d/16nJCve9l4DEpJHcx8u0dtHy43jjoZFYl/view?usp=sharing) | [Github](https://github.com/jingweixu3/wumpus_sv) | 
 | PDF Compactor | [Guiquan Sun](https://www.linkedin.com/in/guiquan-sun-441399181/) and [Linxin Mai](https://www.linkedin.com/in/linxin-mai/) | PDF Compactor | [Youtube](https://www.youtube.com/watch?v=6Zd7mUN6C9A&feature=youtu.be) | [Github](https://github.com/guiquansun/PDF-Compactor) |
+| Mock Stock Trading Simulator | [Samuel Bruner](https://www.linkedin.com/in/samuelbruner/) | Practice buying / selling stocks in a risk free environment with real-time market data | [YouTube](https://youtu.be/WHd30ijnD-U) | [Github](https://github.com/brunersj/EE599_Project) |
 
 # Class group picture
 
