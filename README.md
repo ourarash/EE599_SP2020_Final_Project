@@ -24,6 +24,11 @@ This page show cases the final projects for the EE599 Course (Computing and Soft
 | News Browser | [Shi Lin Chen](https://www.linkedin.com/in/shi-lin-ben-chen-98669a16b/) | View, search and receive daily news | [YouTube](https://www.youtube.com/watch?v=bYj5a5SZ_Xs) | [Github](https://github.com/linchen1010/News-Browser) | 
 | Student Record Manager | [Krishna Sai Tarun Pasupuleti](https://www.linkedin.com/in/krishnasaitarun/) | Maintains a professor's student Records for all courses | [YouTube](https://youtu.be/HfpnjfPqqt0)|[Github](https://github.com/KrishnaSaiTarun/StudentRecordManager) |
 |Online Exam|[Ruiyu Zhao](https://www.linkedin.com/in/ruiyu-zhao-358291192/)| Allows users to take an online exam |[YouTube](https://youtu.be/YQE-6n_fArc)|[Github](https://github.com/ruiyuzha/online-exam-project)|
+|Online Graph Algorithm Tool|[Chun-Hao Lai](https://www.linkedin.com/in/chun-hao-lai-11324a192/)| Generate the algorithm result|[YouTube](https://youtu.be/qIWJfyt2Sog)|[Github](https://github.com/ja841014/EE599_Project.git)|
+|Mini search engine|[Anuj Patil](https://www.linkedin.com/in/anuj-patil/) and [Rudrendu Mahindar](https://www.linkedin.com/in/rudrendu-mahindar/)| Create a mini search engine for searching publications and articles|[DemoVideo](https://drive.google.com/open?id=1Uo7F7tYOvzvR2rNhliaYocJNr7lWBjb7)|[Github](https://github.com/anujp10/qt_search_engine)|
+|Verilog Simulator|Miguel Gallegos|Verilog Simulator|[YouTube](https://youtu.be/r3UO0o8gHs0)|[Github](https://github.com/Mgalleg/VerilogSimulator)|
+| Online Batch Translator | [Jingkai Hong](https://www.linkedin.com/in/jingkai-hong-08a25a1a9/) | Translate compressed file | [YouTube](https://youtu.be/Y8fFQSEkSaY)|[Github](https://github.com/jingkaih/EE599Proj.git) |
+| Computer Room Reservation System | [Chuang Zhang](https://www.linkedin.com/feed/) | Solve the problem of crowding in school computer room | [YouTube](https://www.youtube.com/watch?v=xHUA8okXR1c)|[Github](https://github.com/zhang929292/599proj) |
 
 
 # Class group picture
