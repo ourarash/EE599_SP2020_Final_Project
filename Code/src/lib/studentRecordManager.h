@@ -13,6 +13,7 @@ class studentRecordManager {
   public:
     
     studentRecordManager();   // CONSTRUCTOR
+    ~studentRecordManager();  // Destructor to clean up dynamic memory
     void start();             // START THE OPERATION
 
     instructor* prof;         // POINTER TO AN INSTRUCTOR OBJECT

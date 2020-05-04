@@ -12,6 +12,7 @@ class assignment{
 
     public: 
 
+        assignment();
         assignment(int i, std::string s, std::map<long int, student*> &students);
 
         int max_credit;

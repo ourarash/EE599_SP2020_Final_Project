@@ -22,11 +22,12 @@ class course{
 
     ~course();
 
-    int courseMenu();   
+    int courseMenu();  
+    int courseMenuOptions(const int op); // MADE public so that G-Test can be used, else it is private
 
     private:
 
-    int courseMenuOptions(const int op);
+    
     void studentList();
     int studentListOperations(long int op);
     void printStudentOptions();

@@ -1,6 +1,15 @@
 #include "studentRecordManager.h"
 
-studentRecordManager::studentRecordManager(){}
+studentRecordManager::studentRecordManager(){
+
+  prof = NULL;
+}
+
+studentRecordManager::~studentRecordManager(){
+
+  delete prof;
+  prof = NULL;
+}
 
 void studentRecordManager::start(){
 

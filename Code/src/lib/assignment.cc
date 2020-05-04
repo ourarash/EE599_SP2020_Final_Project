@@ -2,6 +2,12 @@
 
 
 // Constructor when you create a new assignment 
+
+assignment::assignment(){
+
+    // We will use this for the G-Tests.
+}
+
 assignment::assignment(int i, std::string s, std::map<long int, student*> &students){
 
     id = i;
@@ -58,10 +64,10 @@ float assignment::calcMean(){
     for(auto g : studentCredits){
 
         int marks = g.second;
-        sum += marks;
+        sum+= marks;
     }
 
-    return sum/studentCredits.size();
+    return (float)sum/studentCredits.size();
 }
 
 // calculate the median for the assignment 
