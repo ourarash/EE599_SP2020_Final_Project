@@ -22,6 +22,7 @@ This page show cases the final projects for the EE599 Course (Computing and Soft
 |Linear Program Solver | [Jiaao Zhu](https://www.linkedin.com/in/jiaao-zhu-553145195/), [Wenhao Cui](https://www.linkedin.com/in/wenhao-cui-066b4a175/) and [Tieming Sun](https://www.linkedin.com/in/tieming-sun-144272128/) |A compact and simple website for linear programming with 2 sources: LP-solver and GLPK| [YouTube](https://youtu.be/nOh51QsuuGI)|[Github](https://github.com/suntietie/LinearProgram_Solver) |
 |SplayStringEditor|[Hai-qiang Zha](https://www.linkedin.com/in/haiqiang-zha-b04169ab/)| A fast StringEditor which supports removing and inserting operations in O(log(N) + T) time.|[DemoVedio](https://drive.google.com/open?id=1_2dbQ1lbmMQBpxbphpiCMT_cMbfsLvzh)|[Github](https://github.com/SnowmanCharles/string-editor-splay-rope.git)|
 | News Browser | [Shi Lin Chen](https://www.linkedin.com/in/shi-lin-ben-chen-98669a16b/) | View, search and receive daily news | [YouTube](https://www.youtube.com/watch?v=bYj5a5SZ_Xs) | [Github](https://github.com/linchen1010/News-Browser) | 
+| Student Record Manager | [Krishna Sai Tarun Pasupuleti](https://www.linkedin.com/in/krishnasaitarun/) | Maintains a professor's student Records for all courses | [YouTube](https://youtu.be/HfpnjfPqqt0)|[Github](https://github.com/KrishnaSaiTarun/StudentRecordManager) |
 
 # Class group picture
 
