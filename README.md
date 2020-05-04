@@ -5,6 +5,13 @@ This page show cases the final projects for the EE599 Course (Computing and Soft
 - [Course syllabus](https://raw.githubusercontent.com/ourarash/EE599_SP2020_Final_Project/master/syllabus.pdf)
 - Instructor: [Arash Saifhashemi](https://www.linkedin.com/in/ourarash/) 
 
+# Contributors:
+
+ <img alt="Backend" src="https://raw.githubusercontent.com/ourarash/EE599_SP2020_Final_Project/master/lastClass1.png" width="400"> | <img alt="Backend" src="https://raw.githubusercontent.com/ourarash/EE599_SP2020_Final_Project/master/lastClass2.png" width="400"> 
+
+
+
+
 |Project Name| Teammates | Description |Video Link|Github Link|
 | --- | --- | --- | --- | --- |
 |Online Linear Program Solver | [Jiaao Zhu](https://www.linkedin.com/in/jiaao-zhu-553145195/), [Wenhao Cui](https://www.linkedin.com/in/wenhao-cui-066b4a175/) and [Tieming Sun](https://www.linkedin.com/in/tieming-sun-144272128/) |A compact and simple website for linear programming with 2 sources: LP-solver and GLPK| [YouTube](https://youtu.be/nOh51QsuuGI)|[Github](https://github.com/suntietie/LinearProgram_Solver) |
@@ -28,12 +35,4 @@ This page show cases the final projects for the EE599 Course (Computing and Soft
 |Onlin Verilog Simulator|Miguel Gallegos|Online Verilog Simulator|[YouTube](https://youtu.be/r3UO0o8gHs0)|[Github](https://github.com/Mgalleg/VerilogSimulator)|
 | Online Batch Translator | [Jingkai Hong](https://www.linkedin.com/in/jingkai-hong-08a25a1a9/) | Translate files in batches  | [YouTube](https://youtu.be/Y8fFQSEkSaY)|[Github](https://github.com/jingkaih/EE599Proj.git) |
 | Computer Room Reservation System | [Chuang Zhang](https://www.linkedin.com/feed/) | Online tool for school computer room reservation| [YouTube](https://www.youtube.com/watch?v=xHUA8okXR1c)|[Github](https://github.com/zhang929292/599proj) |
-
-
-# Class group picture
-
-Screenshot image from our last online class:
-
- <img alt="Backend" src="https://raw.githubusercontent.com/ourarash/EE599_SP2020_Final_Project/master/lastClass1.png" width="400"> | <img alt="Backend" src="https://raw.githubusercontent.com/ourarash/EE599_SP2020_Final_Project/master/lastClass2.png" width="400"> 
-
 
