@@ -25,9 +25,9 @@ This page show cases the final projects for the EE599 Course (Computing and Soft
 |Online Exam Platform|[Ruiyu Zhao](https://www.linkedin.com/in/ruiyu-zhao-358291192/)| A platform for taking an online exam |[YouTube](https://youtu.be/YQE-6n_fArc)|[Github](https://github.com/ruiyuzha/online-exam-project)|
 |Online Graph Algorithm Tool|[Chun-Hao Lai](https://www.linkedin.com/in/chun-hao-lai-11324a192/)| Online graph search algorithms |[YouTube](https://youtu.be/qIWJfyt2Sog)|[Github](https://github.com/ja841014/EE599_Project.git)|
 |Mini search engine|[Anuj Patil](https://www.linkedin.com/in/anuj-patil/) and [Rudrendu Mahindar](https://www.linkedin.com/in/rudrendu-mahindar/)| Create a mini search engine for searching publications and articles|[DemoVideo](https://drive.google.com/open?id=1Uo7F7tYOvzvR2rNhliaYocJNr7lWBjb7)|[Github](https://github.com/anujp10/qt_search_engine)|
-|Verilog Simulator|Miguel Gallegos|Verilog Simulator|[YouTube](https://youtu.be/r3UO0o8gHs0)|[Github](https://github.com/Mgalleg/VerilogSimulator)|
-| Online Batch Translator | [Jingkai Hong](https://www.linkedin.com/in/jingkai-hong-08a25a1a9/) | Translate compressed file | [YouTube](https://youtu.be/Y8fFQSEkSaY)|[Github](https://github.com/jingkaih/EE599Proj.git) |
-| Computer Room Reservation System | [Chuang Zhang](https://www.linkedin.com/feed/) | Solve the problem of crowding in school computer room | [YouTube](https://www.youtube.com/watch?v=xHUA8okXR1c)|[Github](https://github.com/zhang929292/599proj) |
+|Onlin Verilog Simulator|Miguel Gallegos|Online Verilog Simulator|[YouTube](https://youtu.be/r3UO0o8gHs0)|[Github](https://github.com/Mgalleg/VerilogSimulator)|
+| Online Batch Translator | [Jingkai Hong](https://www.linkedin.com/in/jingkai-hong-08a25a1a9/) | Translate files in batches  | [YouTube](https://youtu.be/Y8fFQSEkSaY)|[Github](https://github.com/jingkaih/EE599Proj.git) |
+| Computer Room Reservation System | [Chuang Zhang](https://www.linkedin.com/feed/) | Online tool for school computer room reservation| [YouTube](https://www.youtube.com/watch?v=xHUA8okXR1c)|[Github](https://github.com/zhang929292/599proj) |
 
 
 # Class group picture
