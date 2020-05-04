@@ -19,6 +19,7 @@ This page show cases the final projects for the EE599 Course (Computing and Soft
 | Mock Stock Trading Simulator | [Samuel Bruner](https://www.linkedin.com/in/samuelbruner/) | Practice buying / selling stocks in a risk free environment with real-time market data | [YouTube](https://youtu.be/WHd30ijnD-U) | [Github](https://github.com/brunersj/EE599_Project) |
 |100 Peaks of Taiwan|[Yen-Ting Lin](linkedin.com/in/yen-ting-lin-8b2571159)| Introduce Taiwanese mountain to who love climb mountain and want to konw more about Taiwan|[YouTube](https://www.youtube.com/watch?v=_F54roA_pxI&feature=youtu.be)|[Github](https://github.com/linyenting365/100PeaksOfTaiwan)|
 | Order Management System | [Mingang Xu](https://www.linkedin.com/in/mingang-xu-330246159/) and [Binling Su](https://www.linkedin.com/in/binling-su-0281b0191/) | Help you handle your orders easily | [Youtube](https://www.youtube.com/watch?v=KWPD5X_TJEg) | [Github](https://github.com/Rothaxe/my_order_system) |
+|Linear Program Solver | [Jiaao Zhu](https://www.linkedin.com/in/jiaao-zhu-553145195/), [Wenhao Cui](https://www.linkedin.com/in/wenhao-cui-066b4a175/) and [Tieming Sun](https://www.linkedin.com/in/tieming-sun-144272128/) |A compact and simple website for linear programming with 2 sources: LP-solver and GLPK| [YouTube](https://youtu.be/nOh51QsuuGI)|[Github](https://github.com/suntietie/LinearProgram_Solver) |
 
 # Class group picture
 
