@@ -34,5 +34,5 @@ This page showcases the final projects for the EE599 Course (Computing and Softw
 |Mini search engine|[Anuj Patil](https://www.linkedin.com/in/anuj-patil/) and [Rudrendu Mahindar](https://www.linkedin.com/in/rudrendu-mahindar/)| Create a mini search engine for searching publications and articles|[DemoVideo](https://drive.google.com/open?id=1Uo7F7tYOvzvR2rNhliaYocJNr7lWBjb7)|[Github](https://github.com/anujp10/qt_search_engine)|
 |Onlin Verilog Simulator|Miguel Gallegos|Online Verilog Simulator|[YouTube](https://youtu.be/r3UO0o8gHs0)|[Github](https://github.com/Mgalleg/VerilogSimulator)|
 | Online Batch Translator | [Jingkai Hong](https://www.linkedin.com/in/jingkai-hong-08a25a1a9/) | Translate files in batches  | [YouTube](https://youtu.be/Y8fFQSEkSaY)|[Github](https://github.com/jingkaih/EE599Proj.git) |
-| Computer Room Reservation System | [Chuang Zhang](https://www.linkedin.com/feed/) | Online tool for school computer room reservation| [YouTube](https://www.youtube.com/watch?v=xHUA8okXR1c)|[Github](https://github.com/zhang929292/599proj) |
-
+| Computer Room Reservation System | [Chuang Zhang](https://www.linkedin.com/feed/) | Online tool for school computer room reservation| [YouTube](https://www.youtube.com/watch?v=xHUA8okXR1c)|[Github](https://github.com/zhang929292/599proj) | 
+| Beat_Covid_19 | Weiheng Yuan | A full-stack to track Covid_19 situation all over the world | [Demo Video](https://drive.google.com/file/d/1VcigbS_b3ZRQ49HIUcUdK7Ka2RKXyDvT/view?usp=sharing) | [github](https://github.com/maddoxyuan1202/Beat_Covid_19)
