@@ -18,7 +18,7 @@ This page show cases the final projects for the EE599 Course (Computing and Soft
 | PDF Compactor | [Guiquan Sun](https://www.linkedin.com/in/guiquan-sun-441399181/) and [Linxin Mai](https://www.linkedin.com/in/linxin-mai/) | PDF Compactor | [Youtube](https://www.youtube.com/watch?v=6Zd7mUN6C9A&feature=youtu.be) | [Github](https://github.com/guiquansun/PDF-Compactor) |
 | Mock Stock Trading Simulator | [Samuel Bruner](https://www.linkedin.com/in/samuelbruner/) | Practice buying / selling stocks in a risk free environment with real-time market data | [YouTube](https://youtu.be/WHd30ijnD-U) | [Github](https://github.com/brunersj/EE599_Project) |
 |100 Peaks of Taiwan|[Yen-Ting Lin](linkedin.com/in/yen-ting-lin-8b2571159)| Introduce Taiwanese mountain to who love climb mountain and want to konw more about Taiwan|[YouTube](https://www.youtube.com/watch?v=_F54roA_pxI&feature=youtu.be)|[Github](https://github.com/linyenting365/100PeaksOfTaiwan)|
-|Verilog Simulator|[Miguel Gallegos]|Verilog Simulator|[YouTube](https://youtu.be/r3UO0o8gHs0)|[Github](https://github.com/Mgalleg/VerilogSimulator)|
+|Verilog Simulator|Miguel Gallegos|Verilog Simulator|[YouTube](https://youtu.be/r3UO0o8gHs0)|[Github](https://github.com/Mgalleg/VerilogSimulator)|
 
 # Class group picture
 
