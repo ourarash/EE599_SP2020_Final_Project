@@ -18,6 +18,7 @@ This page show cases the final projects for the EE599 Course (Computing and Soft
 | PDF Compactor | [Guiquan Sun](https://www.linkedin.com/in/guiquan-sun-441399181/) and [Linxin Mai](https://www.linkedin.com/in/linxin-mai/) | PDF Compactor | [Youtube](https://www.youtube.com/watch?v=6Zd7mUN6C9A&feature=youtu.be) | [Github](https://github.com/guiquansun/PDF-Compactor) |
 | Mock Stock Trading Simulator | [Samuel Bruner](https://www.linkedin.com/in/samuelbruner/) | Practice buying / selling stocks in a risk free environment with real-time market data | [YouTube](https://youtu.be/WHd30ijnD-U) | [Github](https://github.com/brunersj/EE599_Project) |
 |100 Peaks of Taiwan|[Yen-Ting Lin](linkedin.com/in/yen-ting-lin-8b2571159)| Introduce Taiwanese mountain to who love climb mountain and want to konw more about Taiwan|[YouTube](https://www.youtube.com/watch?v=_F54roA_pxI&feature=youtu.be)|[Github](https://github.com/linyenting365/100PeaksOfTaiwan)|
+|Mini search engine|[Anuj Patil](https://www.linkedin.com/in/anuj-patil/) and [Rudrendu Mahindar](https://www.linkedin.com/in/rudrendu-mahindar/)| Create a mini search engine for searching publications and articles|[DemoVideo](https://drive.google.com/open?id=1Uo7F7tYOvzvR2rNhliaYocJNr7lWBjb7)|[Github](https://github.com/anujp10/qt_search_engine)|
 
 # Class group picture
 
